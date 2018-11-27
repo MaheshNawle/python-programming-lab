@@ -1,3 +1,6 @@
+#DICE GAME
+#MAHESH NAWALE
+#043
 import random
 from random import randint as rt
 def game(dice,faces):
