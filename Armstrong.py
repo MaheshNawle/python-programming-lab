@@ -1,3 +1,6 @@
+#ARNSTRONG NUMBER
+#mahesh nawale
+#043
 num=int(input("Enter a number:"))
 sum = 0
 temp = num
